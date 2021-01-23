@@ -1,2 +1,2 @@
-This is the reproduction of the Heavy Truck in the image file with AutoCAD
+This is the reproduction of a Heavy Truck, a Bedroom and the body of a House with AutoCAD
 By Testimony Adams
